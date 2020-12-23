@@ -32,8 +32,6 @@ hrdf_package: "hebi_cpp_api_examples"
 hrdf_file: "config/hrdf/<robot_name>.hrdf"
 home_position: [ -1.0 ]
 
-# Note: the "moveit_joints" must matches the configuration from the MoveIt config; only
-# required when running MoveIt examples
 moveit_joints: ["Arm/J1_shoulder"] # name of the joint specified in the xacro
 
 Go in /config /gains and create <robot_name>_gains.xml. I suggest to copy an already existing file and modify it (e.g. A-2084-01_gains.xml). The amount of gain values must match with the amount of your robot joints. (e.g. if you have 2 joints, specify 2 kp values).
