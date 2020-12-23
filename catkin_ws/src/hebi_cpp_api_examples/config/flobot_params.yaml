@@ -1,6 +1,6 @@
 # Parameters for the module names, gains, hrdf, etc
-names: [ "X-80931", "J2_elbow" ] # X-80931  J1_shoulder
-families: [ "X8-9" ] # X8-9  Arm
+names: [ "J1_shoulder", "J2_elbow" ] # X-80931  J1_shoulder
+families: [ "Arm" ] # X8-9  Arm
 gains_package: "hebi_cpp_api_examples"
 gains_file: "config/gains/flobot_gains.xml"
 hrdf_package: "hebi_cpp_api_examples"
