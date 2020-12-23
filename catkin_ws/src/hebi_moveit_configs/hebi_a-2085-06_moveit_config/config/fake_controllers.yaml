@@ -1,0 +1,12 @@
+controller_list:
+  - name: fake_hebi_arm_controller
+    joints:
+      - Arm/J1_base
+      - Arm/J2_shoulder
+      - Arm/J3_elbow
+      - Arm/J4_wrist1
+      - Arm/J5_wrist2
+      - Arm/J6_wrist3
+initial:  # Define initial robot poses.
+  - group: hebi_arm
+    pose: home
