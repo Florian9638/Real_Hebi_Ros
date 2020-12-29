@@ -3,6 +3,5 @@
     
   <actuator type="X8-9"/>
   <link type="X5" extension="0.325" twist="0"/>
-  <actuator type="X8-9"/>
     
 </robot>
