@@ -32,7 +32,7 @@ hrdf_package: "hebi_cpp_api_examples"
 hrdf_file: "config/hrdf/<robot_name>.hrdf"
 home_position: [ -1.0 ]
 
-# Note: the "moveit_joints" must match the configuration from the MoveIt config; only
+# Note: the "moveit_joints" must matches the configuration from the MoveIt config; only
 # required when running MoveIt examples
 moveit_joints: ["Arm/J1_shoulder"] # name of the joint specified in the xacro
 
