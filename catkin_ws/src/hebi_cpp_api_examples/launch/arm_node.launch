@@ -12,7 +12,7 @@
   -->
 
   <!-- specify type of HEBI arm -->
-  <arg name="arm_type" default="flobot" />
+  <arg name="arm_type" default="flomonk" />
 
   <!-- Parameters for the module names, gains, hrdf, etc -->
   <arg name="config_dir" default="$(find hebi_cpp_api_examples)/config" />
