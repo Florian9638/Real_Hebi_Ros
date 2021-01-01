@@ -60,7 +60,7 @@ if __name__ == '__main__':
         family_name = input("Enter model's family name: ")
     else:
         family_name = args.family
-    
+
     if args.actuators is None:
         actuator_names = get_names(num_actuators)
     elif len(args.actuators) == num_actuators:
@@ -182,4 +182,3 @@ if __name__ == '__main__':
 
         cleanup_cmd = ['rm', '{}.xacro.urdf'.format(model_name)]
         subprocess.call(cleanup_cmd)
-

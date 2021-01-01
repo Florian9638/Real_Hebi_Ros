@@ -10,7 +10,7 @@ generic_hw_control_loop:
 hardware_interface:
   joints:
     - Arm/J1_shoulder
-#    - Arm/J2_elbow
+    - Arm/J2_elbow
   sim_control_mode: 1  # 0: position, 1: velocity
 # Publish all joint states
 # Creates the /joint_states topic necessary in ROS
@@ -24,4 +24,4 @@ controller_list:
     type: FollowJointTrajectory
     joints:
       - Arm/J1_shoulder
-#      - Arm/J2_elbow
+      - Arm/J2_elbow

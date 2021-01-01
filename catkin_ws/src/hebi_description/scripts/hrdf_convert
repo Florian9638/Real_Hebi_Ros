@@ -44,4 +44,3 @@ if __name__ == "__main__":
     xacro_file = os.path.join(tempdir, '{}.xacro'.format(model_name))
     # expand xacro file to urdf and print to stdout
     subprocess.call(['rosrun', 'xacro', 'xacro', '--xacro-ns', xacro_file])
-
