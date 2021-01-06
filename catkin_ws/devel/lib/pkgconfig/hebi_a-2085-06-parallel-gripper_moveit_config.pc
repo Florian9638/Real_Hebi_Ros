@@ -1,0 +1,1 @@
+/home/florian/Aigritec/Real_Hebi_Ros/catkin_ws/devel/.private/hebi_a-2085-06-parallel-gripper_moveit_config/lib/pkgconfig/hebi_a-2085-06-parallel-gripper_moveit_config.pc

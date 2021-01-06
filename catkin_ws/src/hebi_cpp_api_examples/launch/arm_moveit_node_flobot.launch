@@ -41,7 +41,7 @@
   <arg name="load_robot_description" default="true" />
 
   <!-- Parameters for the module names, gains, hrdf, etc -->
-  <rosparam file="$(arg config_dir)/$(arg arm_type)_params.yaml" command="load" />
+  <rosparam file="$(arg config_dir)/$(arg arm_type)_params_sim.yaml" command="load" />
 
   <node pkg="hebi_cpp_api_examples" type="arm_moveit_node" name="arm_moveit_node" output="screen"/>
 
@@ -78,7 +78,7 @@
   <arg name="use_sim_time" default="true"/>
   <param name="use_sim_time" value="$(arg use_sim_time)"/>
 
-  <arg name="config_file" default="$(find hebi_cpp_api_examples)/config/$(arg arm_type)_params.yaml" />
+  <arg name="config_file" default="$(find hebi_cpp_api_examples)/config/$(arg arm_type)_params_sim.yaml" />
 
   <param name="robot_description" command="$(find hebi_description)/scripts/hrdf_convert $(arg config_file)" />
 

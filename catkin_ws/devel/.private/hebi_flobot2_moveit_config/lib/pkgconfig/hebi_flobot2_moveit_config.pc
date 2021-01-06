@@ -1,0 +1,8 @@
+prefix=/home/florian/Aigritec/Real_Hebi_Ros/catkin_ws/devel/.private/hebi_flobot2_moveit_config
+
+Name: hebi_flobot2_moveit_config
+Description: Description of hebi_flobot2_moveit_config
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

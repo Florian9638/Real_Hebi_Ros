@@ -1,0 +1,55 @@
+Determining if the pthread_create exist failed with the following output:
+Change Dir: /home/florian/Aigritec/Real_Hebi_Ros/catkin_ws/build/hebi_a-2085-04_moveit_config/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_9a0fd/fast"
+/usr/bin/make -f CMakeFiles/cmTC_9a0fd.dir/build.make CMakeFiles/cmTC_9a0fd.dir/build
+make[1]: ingresso nella directory "/home/florian/Aigritec/Real_Hebi_Ros/catkin_ws/build/hebi_a-2085-04_moveit_config/CMakeFiles/CMakeTmp"
+Building C object CMakeFiles/cmTC_9a0fd.dir/CheckSymbolExists.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_9a0fd.dir/CheckSymbolExists.c.o   -c /home/florian/Aigritec/Real_Hebi_Ros/catkin_ws/build/hebi_a-2085-04_moveit_config/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_9a0fd
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_9a0fd.dir/link.txt --verbose=1
+/usr/bin/cc      -rdynamic CMakeFiles/cmTC_9a0fd.dir/CheckSymbolExists.c.o  -o cmTC_9a0fd 
+CMakeFiles/cmTC_9a0fd.dir/CheckSymbolExists.c.o: nella funzione "main":
+CheckSymbolExists.c:(.text+0x1b): riferimento non definito a "pthread_create"
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_9a0fd.dir/build.make:97: recipe for target 'cmTC_9a0fd' failed
+make[1]: *** [cmTC_9a0fd] Error 1
+make[1]: uscita dalla directory "/home/florian/Aigritec/Real_Hebi_Ros/catkin_ws/build/hebi_a-2085-04_moveit_config/CMakeFiles/CMakeTmp"
+Makefile:126: recipe for target 'cmTC_9a0fd/fast' failed
+make: *** [cmTC_9a0fd/fast] Error 2
+
+File /home/florian/Aigritec/Real_Hebi_Ros/catkin_ws/build/hebi_a-2085-04_moveit_config/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <pthread.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef pthread_create
+  return ((int*)(&pthread_create))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the function pthread_create exists in the pthreads failed with the following output:
+Change Dir: /home/florian/Aigritec/Real_Hebi_Ros/catkin_ws/build/hebi_a-2085-04_moveit_config/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_db648/fast"
+/usr/bin/make -f CMakeFiles/cmTC_db648.dir/build.make CMakeFiles/cmTC_db648.dir/build
+make[1]: ingresso nella directory "/home/florian/Aigritec/Real_Hebi_Ros/catkin_ws/build/hebi_a-2085-04_moveit_config/CMakeFiles/CMakeTmp"
+Building C object CMakeFiles/cmTC_db648.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_db648.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.10/Modules/CheckFunctionExists.c
+Linking C executable cmTC_db648
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_db648.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=pthread_create    -rdynamic CMakeFiles/cmTC_db648.dir/CheckFunctionExists.c.o  -o cmTC_db648 -lpthreads 
+/usr/bin/ld: impossibile trovare -lpthreads
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_db648.dir/build.make:97: recipe for target 'cmTC_db648' failed
+make[1]: *** [cmTC_db648] Error 1
+make[1]: uscita dalla directory "/home/florian/Aigritec/Real_Hebi_Ros/catkin_ws/build/hebi_a-2085-04_moveit_config/CMakeFiles/CMakeTmp"
+Makefile:126: recipe for target 'cmTC_db648/fast' failed
+make: *** [cmTC_db648/fast] Error 2
+
+
