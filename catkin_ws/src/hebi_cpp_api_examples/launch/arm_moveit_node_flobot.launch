@@ -41,7 +41,7 @@
   <arg name="load_robot_description" default="true" />
 
   <!-- Parameters for the module names, gains, hrdf, etc -->
-  <rosparam file="$(arg config_dir)/$(arg arm_type)_params_sim.yaml" command="load" />
+  <rosparam file="$(arg config_dir)/$(arg arm_type)_params.yaml" command="load" />
 
   <node pkg="hebi_cpp_api_examples" type="arm_moveit_node" name="arm_moveit_node" output="screen"/>
 
@@ -74,11 +74,11 @@
 
   <!-- Gazebo -->
 
-  <!-- <arg name="arm_type" default="flobot"/> -->
+  <!-- <arg name="arm_type" default="flobot"/>
   <arg name="use_sim_time" default="true"/>
   <param name="use_sim_time" value="$(arg use_sim_time)"/>
 
-  <arg name="config_file" default="$(find hebi_cpp_api_examples)/config/$(arg arm_type)_params_sim.yaml" />
+  <arg name="config_file" default="$(find hebi_cpp_api_examples)/config/$(arg arm_type)_params.yaml" />
 
   <param name="robot_description" command="$(find hebi_description)/scripts/hrdf_convert $(arg config_file)" />
 
@@ -96,7 +96,7 @@
     <arg name="arm_type" value="$(arg arm_type)" />
     <arg name="config_dir" value="$(find hebi_cpp_api_examples)/config" />
   </include>
-<!--
+
   <node name="robot_state_publisher" pkg="robot_state_publisher" type="robot_state_publisher">
     <param name="publish_frequency" type="double" value="30.0" />
   </node>
