@@ -1,0 +1,373 @@
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_py[0m
+[  0%] Built target tf2_msgs_generate_messages_py
+[35m[1mScanning dependencies of target control_msgs_generate_messages_cpp[0m
+[  0%] Built target control_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target roscpp_generate_messages_py[0m
+[  0%] Built target roscpp_generate_messages_py
+[35m[1mScanning dependencies of target trajectory_msgs_generate_messages_eus[0m
+[  0%] Built target trajectory_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target roscpp_generate_messages_lisp[0m
+[  0%] Built target roscpp_generate_messages_lisp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
+[  0%] Built target geometry_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_cpp[0m
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target _catkin_empty_exported_target[0m
+[  0%] Built target _catkin_empty_exported_target
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_eus[0m
+[  0%] Built target sensor_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[  0%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[  0%] Built target std_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target roscpp_generate_messages_nodejs[0m
+[  0%] Built target roscpp_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[  0%] Built target std_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_lisp[0m
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target control_msgs_generate_messages_nodejs[0m
+[  0%] Built target control_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target roscpp_generate_messages_cpp[0m
+[  0%] Built target roscpp_generate_messages_cpp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_nodejs[0m
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target control_msgs_generate_messages_eus[0m
+[  0%] Built target control_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[  0%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_nodejs[0m
+[  0%] Built target actionlib_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_nodejs[0m
+[  0%] Built target nav_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target actionlib_generate_messages_eus[0m
+[  0%] Built target actionlib_generate_messages_eus
+[35m[1mScanning dependencies of target control_msgs_generate_messages_py[0m
+[  0%] Built target control_msgs_generate_messages_py
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_nodejs[0m
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[  0%] Built target std_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target trajectory_msgs_generate_messages_py[0m
+[  0%] Built target trajectory_msgs_generate_messages_py
+[35m[1mScanning dependencies of target control_msgs_generate_messages_lisp[0m
+[  0%] Built target control_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target tf_generate_messages_cpp[0m
+[  0%] Built target tf_generate_messages_cpp
+[35m[1mScanning dependencies of target actionlib_generate_messages_nodejs[0m
+[  0%] Built target actionlib_generate_messages_nodejs
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_eus[0m
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target roscpp_generate_messages_eus[0m
+[  0%] Built target roscpp_generate_messages_eus
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_py[0m
+[  0%] Built target rosgraph_msgs_generate_messages_py
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_eus[0m
+[  0%] Built target actionlib_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_lisp[0m
+[  0%] Built target actionlib_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_py[0m
+[  0%] Built target actionlib_msgs_generate_messages_py
+[35m[1mScanning dependencies of target actionlib_generate_messages_lisp[0m
+[  0%] Built target actionlib_generate_messages_lisp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
+[  0%] Built target geometry_msgs_generate_messages_py
+[35m[1mScanning dependencies of target trajectory_msgs_generate_messages_cpp[0m
+[  0%] Built target trajectory_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target trajectory_msgs_generate_messages_lisp[0m
+[  0%] Built target trajectory_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target actionlib_generate_messages_cpp[0m
+[  0%] Built target actionlib_generate_messages_cpp
+[35m[1mScanning dependencies of target trajectory_msgs_generate_messages_nodejs[0m
+[  0%] Built target trajectory_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp[0m
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_cpp[0m
+[  0%] Built target nav_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_lisp[0m
+[  0%] Built target nav_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_cpp[0m
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_py[0m
+[  0%] Built target sensor_msgs_generate_messages_py
+[35m[1mScanning dependencies of target tf_generate_messages_py[0m
+[  0%] Built target tf_generate_messages_py
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_cpp[0m
+[  0%] Built target actionlib_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target tf_generate_messages_eus[0m
+[  0%] Built target tf_generate_messages_eus
+[35m[1mScanning dependencies of target tf_generate_messages_lisp[0m
+[  0%] Built target tf_generate_messages_lisp
+[35m[1mScanning dependencies of target tf_generate_messages_nodejs[0m
+[  0%] Built target tf_generate_messages_nodejs
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_eus[0m
+[  0%] Built target nav_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_eus[0m
+[  0%] Built target tf2_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_py[0m
+[  0%] Built target nav_msgs_generate_messages_py
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_lisp[0m
+[  0%] Built target tf2_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_nodejs[0m
+[  0%] Built target tf2_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_cpp[0m
+[  0%] Built target tf2_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target actionlib_generate_messages_py[0m
+[  0%] Built target actionlib_generate_messages_py
+[35m[1mScanning dependencies of target _hebi_cpp_api_examples_generate_messages_check_deps_ArmMotionActionFeedback[0m
+[35m[1mScanning dependencies of target _hebi_cpp_api_examples_generate_messages_check_deps_Playback[0m
+[35m[1mScanning dependencies of target _hebi_cpp_api_examples_generate_messages_check_deps_ArmMotionAction[0m
+[  0%] Built target _hebi_cpp_api_examples_generate_messages_check_deps_ArmMotionActionFeedback
+[  0%] Built target _hebi_cpp_api_examples_generate_messages_check_deps_ArmMotionAction
+[35m[1mScanning dependencies of target _hebi_cpp_api_examples_generate_messages_check_deps_StartPath[0m
+[35m[1mScanning dependencies of target _hebi_cpp_api_examples_generate_messages_check_deps_BaseMotionActionFeedback[0m
+[  0%] Built target _hebi_cpp_api_examples_generate_messages_check_deps_Playback
+[  0%] Built target _hebi_cpp_api_examples_generate_messages_check_deps_StartPath
+[35m[1mScanning dependencies of target _hebi_cpp_api_examples_generate_messages_check_deps_BaseMotionGoal[0m
+[  0%] Built target _hebi_cpp_api_examples_generate_messages_check_deps_BaseMotionActionFeedback
+[35m[1mScanning dependencies of target _hebi_cpp_api_examples_generate_messages_check_deps_SaveWaypoint[0m
+[35m[1mScanning dependencies of target _hebi_cpp_api_examples_generate_messages_check_deps_SetCommandLifetime[0m
+[  0%] Built target _hebi_cpp_api_examples_generate_messages_check_deps_BaseMotionGoal
+[  0%] Built target _hebi_cpp_api_examples_generate_messages_check_deps_SetCommandLifetime
+[  0%] Built target _hebi_cpp_api_examples_generate_messages_check_deps_SaveWaypoint
+[35m[1mScanning dependencies of target _hebi_cpp_api_examples_generate_messages_check_deps_ArmMotionActionResult[0m
+[35m[1mScanning dependencies of target _hebi_cpp_api_examples_generate_messages_check_deps_EndPath[0m
+[35m[1mScanning dependencies of target _hebi_cpp_api_examples_generate_messages_check_deps_BaseMotionResult[0m
+[  0%] Built target _hebi_cpp_api_examples_generate_messages_check_deps_ArmMotionActionResult
+[  0%] Built target _hebi_cpp_api_examples_generate_messages_check_deps_EndPath
+[  0%] Built target _hebi_cpp_api_examples_generate_messages_check_deps_BaseMotionResult
+[35m[1mScanning dependencies of target _hebi_cpp_api_examples_generate_messages_check_deps_SetIKSeed[0m
+[35m[1mScanning dependencies of target _hebi_cpp_api_examples_generate_messages_check_deps_ArmMotionResult[0m
+[35m[1mScanning dependencies of target _hebi_cpp_api_examples_generate_messages_check_deps_ArmMotionGoal[0m
+[  0%] Built target _hebi_cpp_api_examples_generate_messages_check_deps_ArmMotionGoal
+[  0%] Built target _hebi_cpp_api_examples_generate_messages_check_deps_SetIKSeed
+[  0%] Built target _hebi_cpp_api_examples_generate_messages_check_deps_ArmMotionResult
+[35m[1mScanning dependencies of target _hebi_cpp_api_examples_generate_messages_check_deps_ArmMotionActionGoal[0m
+[35m[1mScanning dependencies of target _hebi_cpp_api_examples_generate_messages_check_deps_BaseMotionAction[0m
+[35m[1mScanning dependencies of target _hebi_cpp_api_examples_generate_messages_check_deps_BaseMotionActionGoal[0m
+[  0%] Built target _hebi_cpp_api_examples_generate_messages_check_deps_ArmMotionActionGoal
+[  0%] Built target _hebi_cpp_api_examples_generate_messages_check_deps_BaseMotionAction
+[  0%] Built target _hebi_cpp_api_examples_generate_messages_check_deps_BaseMotionActionGoal
+[35m[1mScanning dependencies of target _hebi_cpp_api_examples_generate_messages_check_deps_SetGains[0m
+[35m[1mScanning dependencies of target _hebi_cpp_api_examples_generate_messages_check_deps_OffsetPlayback[0m
+[35m[1mScanning dependencies of target _hebi_cpp_api_examples_generate_messages_check_deps_TargetWaypoints[0m
+[  0%] Built target _hebi_cpp_api_examples_generate_messages_check_deps_TargetWaypoints
+[  0%] Built target _hebi_cpp_api_examples_generate_messages_check_deps_SetGains
+[  0%] Built target _hebi_cpp_api_examples_generate_messages_check_deps_OffsetPlayback
+[35m[1mScanning dependencies of target _hebi_cpp_api_examples_generate_messages_check_deps_SetFeedbackFrequency[0m
+[35m[1mScanning dependencies of target _hebi_cpp_api_examples_generate_messages_check_deps_ArmMotionFeedback[0m
+[35m[1mScanning dependencies of target _hebi_cpp_api_examples_generate_messages_check_deps_BaseMotionActionResult[0m
+[  0%] Built target _hebi_cpp_api_examples_generate_messages_check_deps_ArmMotionFeedback
+[  0%] Built target _hebi_cpp_api_examples_generate_messages_check_deps_BaseMotionActionResult
+[  0%] Built target _hebi_cpp_api_examples_generate_messages_check_deps_SetFeedbackFrequency
+[35m[1mScanning dependencies of target _hebi_cpp_api_examples_generate_messages_check_deps_BaseMotionFeedback[0m
+[35m[1mScanning dependencies of target hexapod_controller[0m
+[35m[1mScanning dependencies of target hexapod_control[0m
+[  0%] Built target _hebi_cpp_api_examples_generate_messages_check_deps_BaseMotionFeedback
+[35m[1mScanning dependencies of target hebi_cpp_api_examples_generate_messages_cpp[0m
+[  1%] [34m[1mGenerating C++ code from hebi_cpp_api_examples/OffsetPlayback.msg[0m
+[  1%] [32mBuilding CXX object CMakeFiles/hexapod_controller.dir/src/kits/daisy/controller_node.cpp.o[0m
+[  2%] [32mBuilding CXX object CMakeFiles/hexapod_control.dir/src/kits/daisy/hexapod_control.cpp.o[0m
+[  3%] [34m[1mGenerating C++ code from hebi_cpp_api_examples/BaseMotionActionFeedback.msg[0m
+[  3%] [34m[1mGenerating C++ code from hebi_cpp_api_examples/SaveWaypoint.msg[0m
+[  4%] [34m[1mGenerating C++ code from hebi_cpp_api_examples/ArmMotionActionFeedback.msg[0m
+[  4%] [34m[1mGenerating C++ code from hebi_cpp_api_examples/BaseMotionAction.msg[0m
+[  5%] [34m[1mGenerating C++ code from hebi_cpp_api_examples/ArmMotionFeedback.msg[0m
+[  5%] [34m[1mGenerating C++ code from hebi_cpp_api_examples/StartPath.msg[0m
+[  6%] [34m[1mGenerating C++ code from hebi_cpp_api_examples/ArmMotionGoal.msg[0m
+[  7%] [34m[1mGenerating C++ code from hebi_cpp_api_examples/BaseMotionActionGoal.msg[0m
+[  7%] [34m[1mGenerating C++ code from hebi_cpp_api_examples/ArmMotionActionGoal.msg[0m
+[  8%] [34m[1mGenerating C++ code from hebi_cpp_api_examples/EndPath.msg[0m
+[  8%] [34m[1mGenerating C++ code from hebi_cpp_api_examples/BaseMotionGoal.msg[0m
+[  9%] [34m[1mGenerating C++ code from hebi_cpp_api_examples/ArmMotionActionResult.msg[0m
+[  9%] [34m[1mGenerating C++ code from hebi_cpp_api_examples/ArmMotionAction.msg[0m
+[ 10%] [32mBuilding CXX object CMakeFiles/hexapod_controller.dir/src/kits/daisy/input/mobile_io.cpp.o[0m
+[ 11%] [34m[1mGenerating C++ code from hebi_cpp_api_examples/Playback.msg[0m
+[ 12%] [34m[1mGenerating C++ code from hebi_cpp_api_examples/BaseMotionFeedback.msg[0m
+[ 12%] [34m[1mGenerating C++ code from hebi_cpp_api_examples/TargetWaypoints.msg[0m
+[ 13%] [34m[1mGenerating C++ code from hebi_cpp_api_examples/BaseMotionActionResult.msg[0m
+[ 13%] [32mBuilding CXX object CMakeFiles/hexapod_control.dir/src/kits/daisy/robot/leg.cpp.o[0m
+[ 13%] [34m[1mGenerating C++ code from hebi_cpp_api_examples/ArmMotionResult.msg[0m
+[ 14%] [34m[1mGenerating C++ code from hebi_cpp_api_examples/BaseMotionResult.msg[0m
+[ 14%] [34m[1mGenerating C++ code from hebi_cpp_api_examples/SetGains.srv[0m
+[ 15%] [34m[1mGenerating C++ code from hebi_cpp_api_examples/SetIKSeed.srv[0m
+[ 15%] [34m[1mGenerating C++ code from hebi_cpp_api_examples/SetCommandLifetime.srv[0m
+[ 17%] [34m[1mGenerating C++ code from hebi_cpp_api_examples/SetFeedbackFrequency.srv[0m
+[ 17%] Built target hebi_cpp_api_examples_generate_messages_cpp
+[35m[1mScanning dependencies of target hebi_cpp_api_examples_generate_messages_eus[0m
+[ 18%] [34m[1mGenerating EusLisp code from hebi_cpp_api_examples/OffsetPlayback.msg[0m
+[ 18%] [34m[1mGenerating EusLisp code from hebi_cpp_api_examples/BaseMotionActionFeedback.msg[0m
+[ 19%] [34m[1mGenerating EusLisp code from hebi_cpp_api_examples/SaveWaypoint.msg[0m
+[ 20%] [32m[1mLinking CXX executable /home/florian/Aigritec/Real_Hebi_Ros/catkin_ws/devel/.private/hebi_cpp_api_examples/lib/hebi_cpp_api_examples/hexapod_controller[0m
+[ 20%] [34m[1mGenerating EusLisp code from hebi_cpp_api_examples/ArmMotionActionFeedback.msg[0m
+[ 21%] [34m[1mGenerating EusLisp code from hebi_cpp_api_examples/BaseMotionAction.msg[0m
+[ 21%] [34m[1mGenerating EusLisp code from hebi_cpp_api_examples/ArmMotionFeedback.msg[0m
+[ 21%] Built target hexapod_controller
+[ 22%] [34m[1mGenerating EusLisp code from hebi_cpp_api_examples/StartPath.msg[0m
+[35m[1mScanning dependencies of target hebi_cpp_api_examples_generate_messages_nodejs[0m
+[ 22%] [34m[1mGenerating Javascript code from hebi_cpp_api_examples/OffsetPlayback.msg[0m
+[ 23%] [34m[1mGenerating EusLisp code from hebi_cpp_api_examples/ArmMotionGoal.msg[0m
+[ 24%] [34m[1mGenerating Javascript code from hebi_cpp_api_examples/BaseMotionActionFeedback.msg[0m
+[ 24%] [34m[1mGenerating EusLisp code from hebi_cpp_api_examples/BaseMotionActionGoal.msg[0m
+[ 25%] [34m[1mGenerating Javascript code from hebi_cpp_api_examples/SaveWaypoint.msg[0m
+[ 26%] [34m[1mGenerating EusLisp code from hebi_cpp_api_examples/ArmMotionActionGoal.msg[0m
+[ 26%] [34m[1mGenerating Javascript code from hebi_cpp_api_examples/ArmMotionActionFeedback.msg[0m
+[ 27%] [34m[1mGenerating Javascript code from hebi_cpp_api_examples/BaseMotionAction.msg[0m
+[ 27%] [34m[1mGenerating EusLisp code from hebi_cpp_api_examples/EndPath.msg[0m
+[ 27%] [34m[1mGenerating Javascript code from hebi_cpp_api_examples/ArmMotionFeedback.msg[0m
+[ 28%] [34m[1mGenerating EusLisp code from hebi_cpp_api_examples/BaseMotionGoal.msg[0m
+[ 29%] [34m[1mGenerating Javascript code from hebi_cpp_api_examples/StartPath.msg[0m
+[ 29%] [34m[1mGenerating Javascript code from hebi_cpp_api_examples/ArmMotionGoal.msg[0m
+[ 29%] [34m[1mGenerating EusLisp code from hebi_cpp_api_examples/ArmMotionActionResult.msg[0m
+[ 30%] [34m[1mGenerating Javascript code from hebi_cpp_api_examples/BaseMotionActionGoal.msg[0m
+[ 31%] [34m[1mGenerating Javascript code from hebi_cpp_api_examples/ArmMotionActionGoal.msg[0m
+[ 32%] [34m[1mGenerating EusLisp code from hebi_cpp_api_examples/ArmMotionAction.msg[0m
+[ 32%] [34m[1mGenerating Javascript code from hebi_cpp_api_examples/EndPath.msg[0m
+[ 34%] [34m[1mGenerating Javascript code from hebi_cpp_api_examples/BaseMotionGoal.msg[0m
+[ 35%] [34m[1mGenerating EusLisp code from hebi_cpp_api_examples/Playback.msg[0m
+[ 35%] [34m[1mGenerating Javascript code from hebi_cpp_api_examples/ArmMotionActionResult.msg[0m
+[ 35%] [34m[1mGenerating EusLisp code from hebi_cpp_api_examples/BaseMotionFeedback.msg[0m
+[ 36%] [34m[1mGenerating Javascript code from hebi_cpp_api_examples/ArmMotionAction.msg[0m
+[ 36%] [34m[1mGenerating Javascript code from hebi_cpp_api_examples/Playback.msg[0m
+[ 37%] [34m[1mGenerating EusLisp code from hebi_cpp_api_examples/TargetWaypoints.msg[0m
+[ 38%] [34m[1mGenerating Javascript code from hebi_cpp_api_examples/BaseMotionFeedback.msg[0m
+[ 39%] [34m[1mGenerating Javascript code from hebi_cpp_api_examples/TargetWaypoints.msg[0m
+[ 39%] [34m[1mGenerating EusLisp code from hebi_cpp_api_examples/BaseMotionActionResult.msg[0m
+[ 39%] [34m[1mGenerating Javascript code from hebi_cpp_api_examples/BaseMotionActionResult.msg[0m
+[ 40%] [34m[1mGenerating EusLisp code from hebi_cpp_api_examples/ArmMotionResult.msg[0m
+[ 41%] [34m[1mGenerating Javascript code from hebi_cpp_api_examples/ArmMotionResult.msg[0m
+[ 41%] [34m[1mGenerating EusLisp code from hebi_cpp_api_examples/BaseMotionResult.msg[0m
+[ 41%] [34m[1mGenerating Javascript code from hebi_cpp_api_examples/BaseMotionResult.msg[0m
+[ 42%] [34m[1mGenerating Javascript code from hebi_cpp_api_examples/SetGains.srv[0m
+[ 43%] [34m[1mGenerating EusLisp code from hebi_cpp_api_examples/SetGains.srv[0m
+[ 43%] [34m[1mGenerating Javascript code from hebi_cpp_api_examples/SetIKSeed.srv[0m
+[ 44%] [34m[1mGenerating Javascript code from hebi_cpp_api_examples/SetCommandLifetime.srv[0m
+[ 45%] [34m[1mGenerating EusLisp code from hebi_cpp_api_examples/SetIKSeed.srv[0m
+[ 46%] [34m[1mGenerating Javascript code from hebi_cpp_api_examples/SetFeedbackFrequency.srv[0m
+[ 46%] [34m[1mGenerating EusLisp code from hebi_cpp_api_examples/SetCommandLifetime.srv[0m
+[ 46%] Built target hebi_cpp_api_examples_generate_messages_nodejs
+[ 47%] [32mBuilding CXX object CMakeFiles/hexapod_control.dir/src/kits/daisy/robot/hexapod.cpp.o[0m
+[ 48%] [34m[1mGenerating EusLisp code from hebi_cpp_api_examples/SetFeedbackFrequency.srv[0m
+[ 48%] [34m[1mGenerating EusLisp manifest code for hebi_cpp_api_examples[0m
+[ 48%] Built target hebi_cpp_api_examples_generate_messages_eus
+[ 50%] [32mBuilding CXX object CMakeFiles/hexapod_control.dir/src/kits/daisy/robot/step.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/hexapod_control.dir/src/kits/daisy/robot/hexapod_parameters.cpp.o[0m
+[ 51%] [32mBuilding CXX object CMakeFiles/hexapod_control.dir/src/kits/daisy/xml_util/pugixml.cpp.o[0m
+[ 51%] [32mBuilding CXX object CMakeFiles/hexapod_control.dir/src/kits/daisy/xml_util/xml_helpers.cpp.o[0m
+[35m[1mScanning dependencies of target hebi_cpp_api_examples_generate_messages_lisp[0m
+[ 52%] [34m[1mGenerating Lisp code from hebi_cpp_api_examples/OffsetPlayback.msg[0m
+[ 52%] [34m[1mGenerating Lisp code from hebi_cpp_api_examples/BaseMotionActionFeedback.msg[0m
+[ 53%] [34m[1mGenerating Lisp code from hebi_cpp_api_examples/SaveWaypoint.msg[0m
+[ 54%] [34m[1mGenerating Lisp code from hebi_cpp_api_examples/ArmMotionActionFeedback.msg[0m
+[ 54%] [34m[1mGenerating Lisp code from hebi_cpp_api_examples/BaseMotionAction.msg[0m
+[ 55%] [34m[1mGenerating Lisp code from hebi_cpp_api_examples/ArmMotionFeedback.msg[0m
+[ 55%] [34m[1mGenerating Lisp code from hebi_cpp_api_examples/StartPath.msg[0m
+[ 56%] [34m[1mGenerating Lisp code from hebi_cpp_api_examples/ArmMotionGoal.msg[0m
+[ 56%] [34m[1mGenerating Lisp code from hebi_cpp_api_examples/BaseMotionActionGoal.msg[0m
+[ 57%] [34m[1mGenerating Lisp code from hebi_cpp_api_examples/ArmMotionActionGoal.msg[0m
+[35m[1mScanning dependencies of target hebi_cpp_api_examples_generate_messages_py[0m
+[ 57%] [34m[1mGenerating Python from MSG hebi_cpp_api_examples/OffsetPlayback[0m
+[ 58%] [34m[1mGenerating Lisp code from hebi_cpp_api_examples/EndPath.msg[0m
+[ 59%] [34m[1mGenerating Python from MSG hebi_cpp_api_examples/BaseMotionActionFeedback[0m
+[ 59%] [34m[1mGenerating Lisp code from hebi_cpp_api_examples/BaseMotionGoal.msg[0m
+[ 60%] [34m[1mGenerating Lisp code from hebi_cpp_api_examples/ArmMotionActionResult.msg[0m
+[ 60%] [34m[1mGenerating Python from MSG hebi_cpp_api_examples/SaveWaypoint[0m
+[ 60%] [34m[1mGenerating Lisp code from hebi_cpp_api_examples/ArmMotionAction.msg[0m
+[ 61%] [34m[1mGenerating Lisp code from hebi_cpp_api_examples/Playback.msg[0m
+[ 61%] [34m[1mGenerating Lisp code from hebi_cpp_api_examples/BaseMotionFeedback.msg[0m
+[ 62%] [34m[1mGenerating Python from MSG hebi_cpp_api_examples/ArmMotionActionFeedback[0m
+[ 63%] [34m[1mGenerating Lisp code from hebi_cpp_api_examples/TargetWaypoints.msg[0m
+[ 63%] [34m[1mGenerating Lisp code from hebi_cpp_api_examples/BaseMotionActionResult.msg[0m
+[ 63%] [34m[1mGenerating Python from MSG hebi_cpp_api_examples/BaseMotionAction[0m
+[ 64%] [34m[1mGenerating Lisp code from hebi_cpp_api_examples/ArmMotionResult.msg[0m
+[ 65%] [34m[1mGenerating Python from MSG hebi_cpp_api_examples/ArmMotionFeedback[0m
+[ 67%] [34m[1mGenerating Lisp code from hebi_cpp_api_examples/BaseMotionResult.msg[0m
+[ 67%] [34m[1mGenerating Lisp code from hebi_cpp_api_examples/SetGains.srv[0m
+[ 68%] [34m[1mGenerating Python from MSG hebi_cpp_api_examples/StartPath[0m
+[ 69%] [34m[1mGenerating Lisp code from hebi_cpp_api_examples/SetIKSeed.srv[0m
+[ 69%] [34m[1mGenerating Lisp code from hebi_cpp_api_examples/SetCommandLifetime.srv[0m
+[ 69%] [34m[1mGenerating Python from MSG hebi_cpp_api_examples/ArmMotionGoal[0m
+[ 70%] [34m[1mGenerating Lisp code from hebi_cpp_api_examples/SetFeedbackFrequency.srv[0m
+[ 70%] Built target hebi_cpp_api_examples_generate_messages_lisp
+[ 71%] [34m[1mGenerating Python from MSG hebi_cpp_api_examples/BaseMotionActionGoal[0m
+[35m[1mScanning dependencies of target gripper_moveit_node[0m
+[ 71%] [34m[1mGenerating Python from MSG hebi_cpp_api_examples/ArmMotionActionGoal[0m
+[ 71%] [32mBuilding CXX object CMakeFiles/gripper_moveit_node.dir/src/kits/arm/gripper_moveit_node.cpp.o[0m
+[ 72%] [34m[1mGenerating Python from MSG hebi_cpp_api_examples/EndPath[0m
+[ 72%] [34m[1mGenerating Python from MSG hebi_cpp_api_examples/BaseMotionGoal[0m
+[ 73%] [34m[1mGenerating Python from MSG hebi_cpp_api_examples/ArmMotionActionResult[0m
+[ 73%] [34m[1mGenerating Python from MSG hebi_cpp_api_examples/ArmMotionAction[0m
+[ 74%] [34m[1mGenerating Python from MSG hebi_cpp_api_examples/Playback[0m
+[ 75%] [34m[1mGenerating Python from MSG hebi_cpp_api_examples/BaseMotionFeedback[0m
+[ 75%] [34m[1mGenerating Python from MSG hebi_cpp_api_examples/TargetWaypoints[0m
+[ 76%] [34m[1mGenerating Python from MSG hebi_cpp_api_examples/BaseMotionActionResult[0m
+[ 76%] [34m[1mGenerating Python from MSG hebi_cpp_api_examples/ArmMotionResult[0m
+[35m[1mScanning dependencies of target arm_moveit_node[0m
+[ 76%] [32mBuilding CXX object CMakeFiles/arm_moveit_node.dir/src/kits/arm/arm_moveit_node.cpp.o[0m
+[ 77%] [34m[1mGenerating Python from MSG hebi_cpp_api_examples/BaseMotionResult[0m
+[ 77%] [34m[1mGenerating Python code from SRV hebi_cpp_api_examples/SetGains[0m
+[ 78%] [34m[1mGenerating Python code from SRV hebi_cpp_api_examples/SetIKSeed[0m
+[ 79%] [34m[1mGenerating Python code from SRV hebi_cpp_api_examples/SetCommandLifetime[0m
+[ 79%] [34m[1mGenerating Python code from SRV hebi_cpp_api_examples/SetFeedbackFrequency[0m
+[ 80%] [34m[1mGenerating Python msg __init__.py for hebi_cpp_api_examples[0m
+[ 80%] [34m[1mGenerating Python srv __init__.py for hebi_cpp_api_examples[0m
+[ 80%] Built target hebi_cpp_api_examples_generate_messages_py
+[35m[1mScanning dependencies of target arm_node[0m
+[ 80%] [32mBuilding CXX object CMakeFiles/arm_node.dir/src/kits/arm/arm_node.cpp.o[0m
+[ 81%] [32m[1mLinking CXX executable /home/florian/Aigritec/Real_Hebi_Ros/catkin_ws/devel/.private/hebi_cpp_api_examples/lib/hebi_cpp_api_examples/hexapod_control[0m
+[ 81%] Built target hexapod_control
+[35m[1mScanning dependencies of target group_node[0m
+[ 82%] [32m[1mLinking CXX executable /home/florian/Aigritec/Real_Hebi_Ros/catkin_ws/devel/.private/hebi_cpp_api_examples/lib/hebi_cpp_api_examples/gripper_moveit_node[0m
+[ 84%] [32mBuilding CXX object CMakeFiles/group_node.dir/src/basic/group_node.cpp.o[0m
+[ 84%] Built target gripper_moveit_node
+[35m[1mScanning dependencies of target arm_teach_repeat_node[0m
+[ 84%] [32mBuilding CXX object CMakeFiles/arm_teach_repeat_node.dir/src/kits/arm/arm_teach_repeat_node.cpp.o[0m
+[ 85%] [32m[1mLinking CXX executable /home/florian/Aigritec/Real_Hebi_Ros/catkin_ws/devel/.private/hebi_cpp_api_examples/lib/hebi_cpp_api_examples/arm_moveit_node[0m
+[ 85%] Built target arm_moveit_node
+[35m[1mScanning dependencies of target diff_drive_node[0m
+[ 86%] [32mBuilding CXX object CMakeFiles/diff_drive_node.dir/src/kits/base/diff_drive_node.cpp.o[0m
+[ 86%] [32m[1mLinking CXX executable /home/florian/Aigritec/Real_Hebi_Ros/catkin_ws/devel/.private/hebi_cpp_api_examples/lib/hebi_cpp_api_examples/group_node[0m
+[ 87%] [32m[1mLinking CXX executable /home/florian/Aigritec/Real_Hebi_Ros/catkin_ws/devel/.private/hebi_cpp_api_examples/lib/hebi_cpp_api_examples/arm_node[0m
+[ 87%] Built target group_node
+[ 88%] [32mBuilding CXX object CMakeFiles/arm_teach_repeat_node.dir/src/util/path.cpp.o[0m
+[ 88%] Built target arm_node
+[ 88%] [32mBuilding CXX object CMakeFiles/arm_teach_repeat_node.dir/src/util/waypoint.cpp.o[0m
+[35m[1mScanning dependencies of target rosie_teach_repeat_controller_node[0m
+[ 88%] [32mBuilding CXX object CMakeFiles/rosie_teach_repeat_controller_node.dir/src/kits/rosie/teach_repeat_controller_node.cpp.o[0m
+[ 89%] [32mBuilding CXX object CMakeFiles/rosie_teach_repeat_controller_node.dir/src/util/mobile_io.cpp.o[0m
+[ 90%] [32m[1mLinking CXX executable /home/florian/Aigritec/Real_Hebi_Ros/catkin_ws/devel/.private/hebi_cpp_api_examples/lib/hebi_cpp_api_examples/arm_teach_repeat_node[0m
+[ 90%] Built target arm_teach_repeat_node
+[35m[1mScanning dependencies of target omni_base_node[0m
+[ 90%] [32mBuilding CXX object CMakeFiles/omni_base_node.dir/src/kits/base/omni_base_node.cpp.o[0m
+[ 90%] [32mBuilding CXX object CMakeFiles/diff_drive_node.dir/src/util/diff_drive.cpp.o[0m
+[ 91%] [32mBuilding CXX object CMakeFiles/omni_base_node.dir/src/util/omni_base.cpp.o[0m
+[ 92%] [32m[1mLinking CXX executable /home/florian/Aigritec/Real_Hebi_Ros/catkin_ws/devel/.private/hebi_cpp_api_examples/lib/hebi_cpp_api_examples/rosie_teach_repeat_controller_node[0m
+[ 92%] Built target rosie_teach_repeat_controller_node
+[ 92%] [32mBuilding CXX object CMakeFiles/omni_base_node.dir/src/util/odom_publisher.cpp.o[0m
+[ 93%] [32m[1mLinking CXX executable /home/florian/Aigritec/Real_Hebi_Ros/catkin_ws/devel/.private/hebi_cpp_api_examples/lib/hebi_cpp_api_examples/diff_drive_node[0m
+[ 93%] Built target diff_drive_node
+[35m[1mScanning dependencies of target mecanum_base_node[0m
+[ 93%] [32mBuilding CXX object CMakeFiles/mecanum_base_node.dir/src/kits/base/mecanum_base_node.cpp.o[0m
+[ 94%] [32mBuilding CXX object CMakeFiles/mecanum_base_node.dir/src/util/mecanum_base.cpp.o[0m
+[ 94%] [32mBuilding CXX object CMakeFiles/mecanum_base_node.dir/src/util/odom_publisher.cpp.o[0m
+[35m[1mScanning dependencies of target omni_base_controller_node[0m
+[ 95%] [32m[1mLinking CXX executable /home/florian/Aigritec/Real_Hebi_Ros/catkin_ws/devel/.private/hebi_cpp_api_examples/lib/hebi_cpp_api_examples/omni_base_node[0m
+[ 95%] [32mBuilding CXX object CMakeFiles/omni_base_controller_node.dir/src/kits/base/omni_base_controller_node.cpp.o[0m
+[ 95%] Built target omni_base_node
+[35m[1mScanning dependencies of target gripper_node[0m
+[ 95%] [32mBuilding CXX object CMakeFiles/gripper_node.dir/src/kits/arm/gripper_node.cpp.o[0m
+[35m[1mScanning dependencies of target hebi_cpp_api_examples_generate_messages[0m
+[ 95%] Built target hebi_cpp_api_examples_generate_messages
+[ 96%] [32mBuilding CXX object CMakeFiles/omni_base_controller_node.dir/src/util/mobile_io.cpp.o[0m
+[ 97%] [32m[1mLinking CXX executable /home/florian/Aigritec/Real_Hebi_Ros/catkin_ws/devel/.private/hebi_cpp_api_examples/lib/hebi_cpp_api_examples/gripper_node[0m
+[ 97%] Built target gripper_node
+[ 98%] [32m[1mLinking CXX executable /home/florian/Aigritec/Real_Hebi_Ros/catkin_ws/devel/.private/hebi_cpp_api_examples/lib/hebi_cpp_api_examples/mecanum_base_node[0m
+[ 98%] Built target mecanum_base_node
+[100%] [32m[1mLinking CXX executable /home/florian/Aigritec/Real_Hebi_Ros/catkin_ws/devel/.private/hebi_cpp_api_examples/lib/hebi_cpp_api_examples/omni_base_controller_node[0m
+[100%] Built target omni_base_controller_node

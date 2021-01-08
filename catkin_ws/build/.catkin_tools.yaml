@@ -1,0 +1,6 @@
+devel_space: /home/florian/Aigritec/Real_Hebi_Ros/catkin_ws/devel
+install: false
+install_space: /home/florian/Aigritec/Real_Hebi_Ros/catkin_ws/install
+profile: default
+source_space: /home/florian/Aigritec/Real_Hebi_Ros/catkin_ws/src
+workspace: /home/florian/Aigritec/Real_Hebi_Ros/catkin_ws

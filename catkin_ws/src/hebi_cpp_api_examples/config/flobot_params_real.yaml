@@ -1,0 +1,12 @@
+# Parameters for the module names, gains, hrdf, etc
+names: [ "J1_shoulder" ] # X-80931
+families: [ "Arm" ] # X8-9
+gains_package: "hebi_cpp_api_examples"
+gains_file: "config/gains/flobot_gains_real.xml"
+hrdf_package: "hebi_cpp_api_examples"
+hrdf_file: "config/hrdf/flobot_real.hrdf"
+home_position: [ -1.0 ]
+
+# Note: the "moveit_joints" must matches the configuration from the MoveIt config; only
+# required when running MoveIt examples
+moveit_joints: ["Arm/J1_shoulder"] #"Arm/J2_elbow"

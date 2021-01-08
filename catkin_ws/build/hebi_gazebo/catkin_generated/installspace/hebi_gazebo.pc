@@ -1,0 +1,8 @@
+prefix=/home/florian/Aigritec/Real_Hebi_Ros/catkin_ws/install
+
+Name: hebi_gazebo
+Description: Description of hebi_gazebo
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
